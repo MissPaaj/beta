@@ -16,3 +16,5 @@ Built using [Jekyll](http://jekyllrb.com/), plain HTML, CSS, javascript and a li
 The [projects](http://codeforsanfrancisco.org/beta/projects) and [people](http://codeforsanfrancisco.org/beta/people) pages are powered by [CFAPI](https://github.com/codeforamerica/cfapi#readme) based on a script run every hour that fetches data from the [Github API](http://developer.github.com/) as well as other sources. 
  
 You can access the API [here](http://codeforamerica.org/api)
+
+Soon we will have a blog!
