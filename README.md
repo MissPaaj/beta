@@ -2,7 +2,7 @@
 
 Website for San Francisco's brigade
 
-Built using Jekyll, plain HTML, CSS, javascript and a little bit of Markdown and Liquid templates
+Built using [Jekyll](http://jekyllrb.com/), plain HTML, CSS, javascript and a little bit of Markdown and Liquid templates
 
 ## Javascript libraries
 
