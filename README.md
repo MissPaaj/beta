@@ -17,4 +17,4 @@ The [projects](http://codeforsanfrancisco.org/beta/projects) and [people](http:/
  
 You can access the API [here](http://codeforamerica.org/api)
 
-Soon we will have a blog!
+Soon we will have a [blog](http://codeforamerica.org/blog)!
